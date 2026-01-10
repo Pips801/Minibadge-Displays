@@ -6,7 +6,7 @@
 
 A magnetically tileable 5x5 Minibadge display designed around USB-C PD input. This board accepts 5V - 28V and carries that voltage as the backplane for connected boards. Power input is regulated to 5V and 3.3V per board. It features a wide range of protections for shorts, over/under voltage, hotplugging, and ESD. 
 
-### Design Goals
+### Features
 * Wide voltage range input for various PD VBUS voltages (5V - 28V)
 * Modular tileability using magnetic pogo pins
 * Robust fault protection, with status indicator LEDs
