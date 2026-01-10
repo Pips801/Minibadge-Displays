@@ -1,0 +1,56 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "b81e8f9d-1c63-48dd-b54e-950adf61fb7f")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 60.96 53.34)
+		(size 33.02 27.94)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "77560a16-5ab1-4859-a715-3286c5b0b062")
+		(property "Sheetname" "6x5 Minibadge Grid"
+			(at 60.96 52.6284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Grid.kicad_sch"
+			(at 60.96 81.8646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "6x5 Display"
+				(path "/b81e8f9d-1c63-48dd-b54e-950adf61fb7f"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
