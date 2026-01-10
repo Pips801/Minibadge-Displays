@@ -6523,7 +6523,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "NetTie:NetTie-2_THT_Pad1.0mm"
 			(at 196.85 45.72 0)
 			(effects
 				(font
@@ -6852,7 +6852,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SMA"
 			(at 60.96 104.14 0)
 			(effects
 				(font
@@ -7173,7 +7173,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SMA"
 			(at 60.96 88.9 0)
 			(effects
 				(font
@@ -7375,7 +7375,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TPS56637:TPS56637 VQFN-HR (10)"
 			(at 195.58 76.2 0)
 			(effects
 				(font
@@ -7480,7 +7480,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TPS56637:TPS56637 VQFN-HR (10)"
 			(at 195.58 31.75 0)
 			(effects
 				(font
@@ -7786,7 +7786,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x05_P2.54mm_Horizontal"
 			(at 59.69 43.18 0)
 			(effects
 				(font
@@ -7862,7 +7862,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x05_P2.54mm_Horizontal"
 			(at 46.99 30.48 0)
 			(effects
 				(font
@@ -8165,7 +8165,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "NetTie:NetTie-2_THT_Pad1.0mm"
 			(at 196.85 90.17 0)
 			(effects
 				(font
@@ -8695,7 +8695,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 48.26 120.65 0)
 			(effects
 				(font
@@ -9049,7 +9049,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SMA"
 			(at 33.02 104.14 0)
 			(effects
 				(font
@@ -9679,7 +9679,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x05_P2.54mm_Horizontal"
 			(at 46.99 55.88 0)
 			(effects
 				(font
@@ -10109,7 +10109,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Inductor_SMD:L_6.3x6.3_H3"
 			(at 212.09 74.93 0)
 			(effects
 				(font
@@ -10620,7 +10620,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SMA"
 			(at 33.02 88.9 0)
 			(effects
 				(font
@@ -11245,7 +11245,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x05_P2.54mm_Horizontal"
 			(at 34.29 43.18 0)
 			(effects
 				(font
@@ -11696,7 +11696,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Inductor_SMD:L_6.3x6.3_H3"
 			(at 212.09 30.48 0)
 			(effects
 				(font
