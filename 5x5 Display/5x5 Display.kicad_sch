@@ -7151,7 +7151,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "NetTie:NetTie-2_THT_Pad1.0mm"
+		(property "Footprint" "NetTie:NetTie-2_SMD_Pad0.5mm"
 			(at 196.85 45.72 0)
 			(effects
 				(font
@@ -8793,7 +8793,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "NetTie:NetTie-2_THT_Pad1.0mm"
+		(property "Footprint" "NetTie:NetTie-2_SMD_Pad0.5mm"
 			(at 196.85 90.17 0)
 			(effects
 				(font

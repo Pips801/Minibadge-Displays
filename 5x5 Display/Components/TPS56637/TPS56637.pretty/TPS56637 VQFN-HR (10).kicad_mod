@@ -53,84 +53,6 @@
 		)
 	)
 	(attr smd)
-	(fp_poly
-		(pts
-			(xy 0.999998 -0.675) (xy 0.999998 -0.825) (xy 1.049998 -0.875) (xy 1.649999 -0.875) (xy 1.699999 -0.825)
-			(xy 1.699999 -0.675) (xy 1.649999 -0.625) (xy 1.049998 -0.625)
-		)
-		(stroke
-			(width 0)
-			(type solid)
-		)
-		(fill yes)
-		(layer "F.Cu")
-		(uuid "67acffdf-ba04-4162-b806-5b8e6409ca14")
-	)
-	(fp_poly
-		(pts
-			(xy 0.999998 -0.175001) (xy 0.999998 -0.325001) (xy 1.049998 -0.375001) (xy 1.649999 -0.375001) (xy 1.699999 -0.325001)
-			(xy 1.699999 -0.175001) (xy 1.649999 -0.125001) (xy 1.049998 -0.125001)
-		)
-		(stroke
-			(width 0)
-			(type solid)
-		)
-		(fill yes)
-		(layer "F.Cu")
-		(uuid "1eb4fd17-fbb7-4f51-b866-c9927514c680")
-	)
-	(fp_poly
-		(pts
-			(xy 0.999998 0.325001) (xy 0.999998 0.175001) (xy 1.049998 0.125001) (xy 1.649999 0.125001) (xy 1.699999 0.175001)
-			(xy 1.699999 0.325001) (xy 1.649999 0.375001) (xy 1.049998 0.375001)
-		)
-		(stroke
-			(width 0)
-			(type solid)
-		)
-		(fill yes)
-		(layer "F.Cu")
-		(uuid "2f6acdb2-3656-4e86-b258-af479dc470f3")
-	)
-	(fp_poly
-		(pts
-			(xy 0.999998 -0.675) (xy 0.999998 -0.825) (xy 1.049998 -0.875) (xy 1.649999 -0.875) (xy 1.699999 -0.825)
-			(xy 1.699999 -0.675) (xy 1.649999 -0.625) (xy 1.049998 -0.625)
-		)
-		(stroke
-			(width 0)
-			(type solid)
-		)
-		(fill yes)
-		(layer "F.Mask")
-		(uuid "b2c12461-63e1-4ceb-9a6c-49eccfc36f18")
-	)
-	(fp_poly
-		(pts
-			(xy 0.999998 -0.175001) (xy 0.999998 -0.325001) (xy 1.049998 -0.375001) (xy 1.649999 -0.375001) (xy 1.699999 -0.325001)
-			(xy 1.699999 -0.175001) (xy 1.649999 -0.125001) (xy 1.049998 -0.125001)
-		)
-		(stroke
-			(width 0)
-			(type solid)
-		)
-		(fill yes)
-		(layer "F.Mask")
-		(uuid "e9b44bba-6528-4a67-90ff-59b55baf43d7")
-	)
-	(fp_poly
-		(pts
-			(xy 0.999998 0.325001) (xy 0.999998 0.175001) (xy 1.049998 0.125001) (xy 1.649999 0.125001) (xy 1.699999 0.175001)
-			(xy 1.699999 0.325001) (xy 1.649999 0.375001) (xy 1.049998 0.375001)
-		)
-		(stroke
-			(width 0)
-			(type solid)
-		)
-		(fill yes)
-		(layer "F.Mask")
-		(uuid "d02670a7-ef52-4f6d-a3a1-b4298a204302")
-	)
 	(fp_line
 		(start -1.549999 -1.549999)
 		(end 1.549999 -1.549999)
@@ -182,45 +104,6 @@
 		(fill yes)
 		(layer "F.SilkS")
 		(uuid "0ff765e9-f0ee-45a7-a23f-7149a2d55694")
-	)
-	(fp_poly
-		(pts
-			(xy 0.999998 -0.675) (xy 0.999998 -0.825) (xy 1.049998 -0.875) (xy 1.649999 -0.875) (xy 1.699999 -0.825)
-			(xy 1.699999 -0.675) (xy 1.649999 -0.625) (xy 1.049998 -0.625)
-		)
-		(stroke
-			(width 0)
-			(type solid)
-		)
-		(fill yes)
-		(layer "F.Paste")
-		(uuid "dc19ca85-4ef0-4988-b680-f7b2eaa73395")
-	)
-	(fp_poly
-		(pts
-			(xy 0.999998 -0.175001) (xy 0.999998 -0.325001) (xy 1.049998 -0.375001) (xy 1.649999 -0.375001) (xy 1.699999 -0.325001)
-			(xy 1.699999 -0.175001) (xy 1.649999 -0.125001) (xy 1.049998 -0.125001)
-		)
-		(stroke
-			(width 0)
-			(type solid)
-		)
-		(fill yes)
-		(layer "F.Paste")
-		(uuid "4431d399-548f-40fb-a652-4388d6adc2e2")
-	)
-	(fp_poly
-		(pts
-			(xy 0.999998 0.325001) (xy 0.999998 0.175001) (xy 1.049998 0.125001) (xy 1.649999 0.125001) (xy 1.699999 0.175001)
-			(xy 1.699999 0.325001) (xy 1.649999 0.375001) (xy 1.049998 0.375001)
-		)
-		(stroke
-			(width 0)
-			(type solid)
-		)
-		(fill yes)
-		(layer "F.Paste")
-		(uuid "b0043935-6194-4103-a33a-bf97ccb8fbca")
 	)
 	(fp_poly
 		(pts
@@ -298,6 +181,17 @@
 		(fill yes)
 		(layer "F.Paste")
 		(uuid "9975039f-e4f9-444c-8e53-7a2c2cf1f838")
+	)
+	(fp_rect
+		(start -1.905 -1.905)
+		(end 1.905 1.905)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "225c21fc-d3c9-4621-88bd-42932449c94b")
 	)
 	(fp_line
 		(start -1.549999 -1.549999)
@@ -410,6 +304,33 @@
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(uuid "bfb60765-5d9c-4816-bfe4-858088b71ee8")
 	)
+	(pad "8" smd roundrect
+		(at 1.397 -0.762)
+		(size 0.615751 0.250054)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.2)
+		(chamfer_ratio 0.2)
+		(chamfer)
+		(uuid "833d7957-955f-436a-8d92-13e2f6393c46")
+	)
+	(pad "8" smd roundrect
+		(at 1.397 -0.254)
+		(size 0.615751 0.250054)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.2)
+		(chamfer_ratio 0.2)
+		(chamfer)
+		(uuid "1fc9cb9a-fe27-4ec2-8083-14e78a057d97")
+	)
+	(pad "8" smd roundrect
+		(at 1.397 0.254)
+		(size 0.615751 0.250054)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.2)
+		(chamfer_ratio 0.2)
+		(chamfer)
+		(uuid "5c9c5f1e-d3ae-4f76-bb3e-84f75023478c")
+	)
 	(pad "9" smd rect
 		(at -0.21 -0.649999 90)
 		(size 2.100001 0.399999)
@@ -423,4 +344,15 @@
 		(uuid "9eeba01b-996e-442c-82a5-18b287a970f5")
 	)
 	(embedded_fonts no)
+	(model "${KIPRJMOD}/Components/TPS56637/TPS56637.stp"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
 )
