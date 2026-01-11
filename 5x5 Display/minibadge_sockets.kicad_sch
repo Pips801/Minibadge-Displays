@@ -4238,7 +4238,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MiniBadge:MiniBadge_Slot_Reflective"
+		(property "Footprint" "MiniBadge:MiniBadge_Slot_Basic"
 			(at 128.27 101.6 0)
 			(effects
 				(font
@@ -6470,7 +6470,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MiniBadge:MiniBadge_Slot_Reflective"
+		(property "Footprint" "MiniBadge:MiniBadge_Slot_Basic"
 			(at 162.56 101.6 0)
 			(effects
 				(font
@@ -11264,7 +11264,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MiniBadge:MiniBadge_Slot_Reflective"
+		(property "Footprint" "MiniBadge:MiniBadge_Slot_Basic"
 			(at 93.98 101.6 0)
 			(effects
 				(font
