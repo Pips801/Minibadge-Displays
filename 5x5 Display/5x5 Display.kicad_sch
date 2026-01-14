@@ -3960,12 +3960,6 @@
 		(uuid "dd757a9f-68ac-4fdf-8630-4b385e57e7b7")
 	)
 	(junction
-		(at 115.57 58.42)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "defc6ec4-1029-4c19-81ef-d2590aa05f12")
-	)
-	(junction
 		(at 203.2 30.48)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4183,6 +4177,16 @@
 	)
 	(wire
 		(pts
+			(xy 114.3 58.42) (xy 116.84 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1b603318-12ba-471b-b7cf-76940b939835")
+	)
+	(wire
+		(pts
 			(xy 118.11 82.55) (xy 110.49 82.55)
 		)
 		(stroke
@@ -4290,16 +4294,6 @@
 			(type default)
 		)
 		(uuid "485ed896-63f4-471f-9636-95b65eb5b9cd")
-	)
-	(wire
-		(pts
-			(xy 114.3 58.42) (xy 115.57 58.42)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4a316ea7-e942-4d1c-bb01-ead93fe338a6")
 	)
 	(wire
 		(pts
@@ -4460,16 +4454,6 @@
 			(type default)
 		)
 		(uuid "7672aaf9-319f-4705-a686-2f9cc4c0dadf")
-	)
-	(wire
-		(pts
-			(xy 115.57 58.42) (xy 116.84 58.42)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "77ff9ec0-696f-490b-b7ee-674e9aa3f4df")
 	)
 	(wire
 		(pts
@@ -6344,7 +6328,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "30μF ≥28V"
+		(property "Value" "22μF ≥28V"
 			(at 168.91 73.6662 0)
 			(effects
 				(font
@@ -6388,7 +6372,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "LCSC Part #" "C6119966"
 			(at 166.37 72.39 0)
 			(effects
 				(font
@@ -7262,6 +7246,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C134981"
+			(at 59.69 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "a64c7841-b87c-4614-ba69-ddc99683bc67")
 		)
@@ -7643,6 +7636,15 @@
 			)
 		)
 		(property "Description" "Bidirectional transient-voltage-suppression diode, small symbol"
+			(at 59.69 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C134981"
 			(at 59.69 90.17 0)
 			(effects
 				(font
@@ -8047,7 +8049,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "30μF ≥28V"
+		(property "Value" "22μF ≥28V"
 			(at 168.91 29.2162 0)
 			(effects
 				(font
@@ -8091,7 +8093,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "LCSC Part #" "C6119966"
 			(at 166.37 27.94 0)
 			(effects
 				(font
@@ -9661,6 +9663,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C134981"
+			(at 34.29 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "2acf94ad-4a11-4a19-86e8-07b8c9f36cef")
 		)
@@ -10413,7 +10424,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 115.57 58.42 0)
+		(at 114.3 58.42 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10421,7 +10432,7 @@
 		(dnp no)
 		(uuid "a2468a23-f541-4af2-9249-b8be16373de0")
 		(property "Reference" "#PWR0161"
-			(at 115.57 64.77 0)
+			(at 114.3 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10430,7 +10441,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 115.57 61.976 0)
+			(at 114.3 61.976 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10438,7 +10449,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 115.57 58.42 0)
+			(at 114.3 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10447,7 +10458,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 115.57 58.42 0)
+			(at 114.3 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10456,7 +10467,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 115.57 58.42 0)
+			(at 114.3 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10961,6 +10972,15 @@
 		)
 		(property "Description" "Inductor, small symbol"
 			(at 207.01 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C184350"
+			(at 207.01 74.93 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11609,6 +11629,15 @@
 			)
 		)
 		(property "Description" "Bidirectional transient-voltage-suppression diode, small symbol"
+			(at 34.29 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C134981"
 			(at 34.29 90.17 0)
 			(effects
 				(font
@@ -12705,6 +12734,15 @@
 		)
 		(property "Description" "Inductor, small symbol"
 			(at 207.01 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C2047296"
+			(at 207.01 30.48 90)
 			(effects
 				(font
 					(size 1.27 1.27)
