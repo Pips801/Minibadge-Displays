@@ -6360,7 +6360,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C1567"
+		(property "LCSC Part #" "C1671"
 			(at 148.59 80.01 0)
 			(effects
 				(font
@@ -8829,13 +8829,21 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C96123"
+		(property "LCSC Part #" "C84256"
 			(at 270.51 81.28 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Name" ""
+			(at 270.51 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
