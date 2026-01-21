@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "MX26631DL")(type "KiCad")(uri "${KIPRJMOD}/Components/MX26631DL/MX26631DL.kicad_sym")(options "")(descr ""))
+)
